@@ -12,4 +12,4 @@ print(results.xyxy)
 cv2.imshow('YOLO COCO', np.squeeze(results.render()))
 cv2.waitKey(0)
 
-
+0
